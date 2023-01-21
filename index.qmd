@@ -1,0 +1,5 @@
+# Data Science Development Guide {.unnumbered}
+
+Check out my opinions on the different areas I have experience with Data Science.
+
+Made with: <https://quarto.org/docs/books>.

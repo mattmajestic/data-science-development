@@ -1,0 +1,20 @@
+project:
+  type: book
+  output-dir: docs/
+
+book:
+  title: "Data Science Development Guide"
+  author: "Matt Majestic"
+  chapters:
+    - index.qmd
+    - analyst.qmd
+    - developer.qmd
+    - devops.qmd
+
+format:
+  html:
+    theme:
+      light: flatly
+      dark: darkly
+  pdf:
+    documentclass: scrreprt

@@ -1,0 +1,30 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Data Science Development Guide",
+    "section": "",
+    "text": "Data Science Development Guide\nCheck out my opinions on the different areas I have experience with Data Science.\nMade with: https://quarto.org/docs/books."
+  },
+  {
+    "objectID": "analyst.html",
+    "href": "analyst.html",
+    "title": "1  Introduction",
+    "section": "",
+    "text": "This is a book created from markdown and executable code.\nSee @knuth84 for additional discussion of literate programming.\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "developer.html",
+    "href": "developer.html",
+    "title": "2  Developer Experience",
+    "section": "",
+    "text": "Developing is great, just make sure you think holistically."
+  },
+  {
+    "objectID": "devops.html",
+    "href": "devops.html",
+    "title": "3  DevOps Experience",
+    "section": "",
+    "text": "Dev Ops is a growing & essential field going forward. Understanding software & enabling tools for an organization is great experience at a lot of level."
+  }
+]
